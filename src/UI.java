@@ -4,6 +4,8 @@ public class UI {
         int x;
         int y;
 
+        System.out.println("xy resolution");
+
 
 
 
